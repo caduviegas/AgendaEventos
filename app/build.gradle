@@ -54,6 +54,7 @@ dependencies {
 
 
     implementation Dependecies.mockk
+    implementation Dependecies.androidx
     testImplementation Dependecies.junit
     implementation Dependecies.roomTests
     androidTestImplementation Dependecies.espresso

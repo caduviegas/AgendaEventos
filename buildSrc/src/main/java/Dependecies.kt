@@ -22,6 +22,7 @@ object Dependecies {
     const val rxjavaRetrofitAdapter ="com.squareup.retrofit2:adapter-rxjava2:${Versions.retrofit}"
     const val picasso = "com.squareup.picasso:picasso:${Versions.picasso}"
     const val gson = "com.google.code.gson:gson:${Versions.gson}"
+    const val androidx= "androidx.swiperefreshlayout:swiperefreshlayout:${Versions.androidx}"
 
 
 }
