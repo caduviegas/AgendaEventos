@@ -6,6 +6,7 @@ object Versions {
     const val material = "1.8.0"
     const val constraintLayout = "2.1.4"
     const val androidx="1.1.0"
+    const val collectionsktx = "1.1.0"
 
     //Room
     const val room = "2.4.1"

@@ -23,6 +23,7 @@ object Dependecies {
     const val picasso = "com.squareup.picasso:picasso:${Versions.picasso}"
     const val gson = "com.google.code.gson:gson:${Versions.gson}"
     const val androidx= "androidx.swiperefreshlayout:swiperefreshlayout:${Versions.androidx}"
+    const val colectionsKtx ="androidx.collection:collection-ktx:${Versions.collectionsktx}"
 
 
 }
