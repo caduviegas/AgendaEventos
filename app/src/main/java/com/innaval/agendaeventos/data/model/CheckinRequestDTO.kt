@@ -6,7 +6,7 @@ import kotlinx.android.parcel.Parcelize
 
 
 @Parcelize
-data class CkeckinRequestDTO(
+data class CheckinRequestDTO(
     @SerializedName("eventId") val id: String,
     @SerializedName("name") val name: String,
     @SerializedName("email") val email: String
