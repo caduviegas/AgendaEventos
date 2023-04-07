@@ -33,6 +33,9 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+    buildFeatures {
+        viewBinding = true
+    }
 }
 
 dependencies {
@@ -51,8 +54,13 @@ dependencies {
     implementation Dependecies.rxjava
     implementation Dependecies.rxjavaRetrofitAdapter
     implementation Dependecies.picasso
+    implementation Dependecies.hiltLifecycle
     implementation Dependecies.gson
     implementation Dependecies.colectionsKtx
+    implementation Dependecies.multidex
+    implementation Dependecies.lifecycleKtx
+    implementation Dependecies.lifecycleExtensions
+    implementation Dependecies.ktx
 
 
     implementation Dependecies.mockk

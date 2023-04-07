@@ -24,6 +24,11 @@ object Dependecies {
     const val gson = "com.google.code.gson:gson:${Versions.gson}"
     const val androidx= "androidx.swiperefreshlayout:swiperefreshlayout:${Versions.androidx}"
     const val colectionsKtx ="androidx.collection:collection-ktx:${Versions.collectionsktx}"
+    const val hiltLifecycle = "androidx.hilt:hilt-lifecycle-viewmodel:${Versions.hiltLifecycle}"
+    const val multidex = "androidx.multidex:multidex:${Versions.multidex}"
+    const val lifecycleKtx = "androidx.lifecycle:lifecycle-runtime-ktx:${Versions.lifecycleKtx}"
+    const val lifecycleExtensions = "androidx.lifecycle:lifecycle-extensions:${Versions.lifecycleExtensions}"
+    const val ktx = "androidx.activity:activity-ktx:${Versions.ktx}"
 
 
 }

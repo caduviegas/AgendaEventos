@@ -5,14 +5,19 @@ object Versions {
     const val appcompat = "1.6.1"
     const val material = "1.8.0"
     const val constraintLayout = "2.1.4"
-    const val androidx="1.1.0"
+    const val androidx = "1.1.0"
     const val collectionsktx = "1.1.0"
+    const val multidex = "2.0.1"
+    const val lifecycleKtx = "1.2.5"
+    const val lifecycleExtensions = "2.2.0"
+    const val ktx = "2.2.0"
 
     //Room
     const val room = "2.4.1"
 
     //Dependency injection
     const val hilt = "2.44"
+    const val hiltLifecycle = "1.0.0-alpha01"
 
     //Tests
     const val junit = "4.13.2"
