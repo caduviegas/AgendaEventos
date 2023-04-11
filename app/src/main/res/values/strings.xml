@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">AgendaEventos</string>
+
+    <string name="app_name">Events Agenda</string>
+    <string name="refresh">Refresh</string>
+    <string name="events_list_title">Events</string>
+    <string name="no_events_found">No events found :(</string>
+    <string name="error_network">Connection refused, try again later</string>
+    <string name="error_generic">Please try again later</string>
+    <string name="events_details">Event details</string>
+    <string name="do_checkin">Do Checkin</string>
+    <string name="who_is_going_to_event">Who is going to this event?</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="confirm">Confirm</string>
+    <string name="checkin_done">Checkin done ;)</string>
+    <string name="fill_field">Obrigatory field</string>
+    <string name="price">Price</string>
+    <string name="description">Descriptition</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="location_latitude">Latitude: %f</string>
+    <string name="location_longitude">Longitude: %f</string>
+    <string name="back">Back</string>
+    <string name="share_location_url">http://maps.google.com/maps?saddr=%1$f,%2$f</string>
+    <string name="share_event_text">Hey, come with me to event %1$s</string>
+    <string name="share_event_title">Share via</string>
+    <string name="share_location_button">Share location with latitude %1$f and longitude %2$f</string>
+    <string name="share_event">Share event</string>
 </resources>
