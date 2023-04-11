@@ -65,6 +65,7 @@ dependencies {
 
     implementation Dependecies.mockk
     implementation Dependecies.androidx
+    implementation 'com.google.android.datatransport:transport-runtime:3.1.2'
     testImplementation Dependecies.junit
     implementation Dependecies.roomTests
     androidTestImplementation Dependecies.espresso
